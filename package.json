@@ -1,6 +1,6 @@
 {
   "name": "env-info",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get Runtime Info",
   "main": "index.js",
   "scripts": {
