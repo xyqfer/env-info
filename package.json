@@ -1,0 +1,27 @@
+{
+  "name": "env-info",
+  "version": "1.0.0",
+  "description": "Get Runtime Info",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyqfer/env-info.git"
+  },
+  "keywords": [
+    "os",
+    "process",
+    "env"
+  ],
+  "author": "liangliang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xyqfer/env-info/issues"
+  },
+  "homepage": "https://github.com/xyqfer/env-info#readme",
+  "dependencies": {
+    "bytes": "^3.1.0"
+  }
+}
